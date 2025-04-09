@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Mohamed Sherif (Mosherif33) 👋</h1>
+<h1 align="center">Hi, I'm Mohamed Sherif (Mosherif33) 👋</h1>
 <p align="center">Full-Stack Web Developer • Laravel Junkie • Vue/Nuxt Enthusiast • Learning React & Go like a madman</p>
 
 ---
@@ -7,7 +7,7 @@
 
 Strategic and performance-driven **Full-Stack Developer**, primarily focused on **Laravel + Vue** ecosystems. I build secure, scalable, and maintainable web applications that don’t require a fire extinguisher every sprint.
 
-I thrive on writing clean backend code in PHP, exploring JS frameworks, and figuring out how to Dockerize anything that dares run on a server. Currently upskilling in **React**, **Next.js**, and **Go** — because why stop at one frontend framework or one compiled language?
+I thrive on writing clean backend code in PHP, exploring JS frameworks, and figuring out how to Dockerize anything that dares run on a server. I am currently upskilling in React, Next.js, and Go because why stop at one frontend framework or one compiled language?
 
 ---
 
@@ -47,37 +47,21 @@ I thrive on writing clean backend code in PHP, exploring JS frameworks, and figu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mosherif33&theme=radical" />
+  <img src="https://streak-stats.demolab.com/?user=Mosherif33&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mosherif33&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mosherif33&theme=dracula&hide_border=true" />
 </p>
 
 ---
-
-## 👀 Fun Facts
-
-- 💥 I’ve broken more staging environments than I care to admit — but I fixed them too.
-- 📦 I Dockerized my projects before it was cool. Okay fine, just last month.
-- 🤖 I speak fluent Laravel... and semi-fluent "Why doesn’t this JavaScript work?"
-- 🧠 I'm slowly transitioning from “Googler” to “Engineer”.
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 Bachelor’s in Business Administration – Ain Shams University (2021)
-- 🧑‍💻 Full-Stack Web Development Diploma – AMIT Learning (2022)
-- 🥇 EGFWD Web Development Challenger & Professional Tracks
 
 ---
 
 ## 🚀 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/mosherif33)
-- 🌍 [Portfolio](https://your-portfolio-link.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohammadsherif/)
+- 🐦 [Twitter](https://x.com/MoSherif94)
 
 ---
 
