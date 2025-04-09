@@ -27,7 +27,7 @@ I thrive on writing clean backend code in PHP, exploring JS frameworks, and figu
 - Migrating legacy logic to modern patterns & improving system performance
 - Learning React + Next.js the right way (yes, with docs *and* real apps)
 - Diving into Go for backend performance and concurrency experiments
-- Exploring networks and DevOps practices (CCNA journey in progress)
+- Exploring networks and DevOps practices
 
 ---
 
