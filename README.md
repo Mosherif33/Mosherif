@@ -40,24 +40,6 @@ I thrive on writing clean backend code in PHP, exploring JS frameworks, and figu
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mosherif33&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mosherif33&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mosherif33&theme=dracula&hide_border=true" />
-</p>
-
----
-
----
-
 ## 🚀 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammadsherif/)
